@@ -57,3 +57,5 @@ F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\obj\
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\obj\Debug\net6.0\EntityFrameWorkCore6.0.pdb
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\obj\Debug\net6.0\EntityFrameWorkCore6.0.genruntimeconfig.cache
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\obj\Debug\net6.0\ref\EntityFrameWorkCore6.0.dll
+F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\bin\Debug\net6.0\DepatmentClass.dll
+F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\EntityFrameWorkCore6.0\bin\Debug\net6.0\DepatmentClass.pdb

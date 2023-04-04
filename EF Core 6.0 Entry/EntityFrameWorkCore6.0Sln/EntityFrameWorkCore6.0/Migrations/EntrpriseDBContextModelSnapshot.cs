@@ -22,15 +22,27 @@ namespace EntityFrameWorkCore6._0.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("EntityFrameWorkCore6._0.Entities.Department", b =>
+            modelBuilder.Entity("DepatmentClass.Department", b =>
                 {
-                    b.Property<int>("ID")
+                    b.Property<int>("DebtID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("DebtID"), 10L, 10);
 
-                    b.HasKey("ID");
+                    b.Property<DateTime>("DateOfCreation")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("datetime2")
+                        .HasDefaultValueSql("GetDate()");
+
+                    b.Property<string>("Name")
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)")
+                        .HasDefaultValue("Test")
+                        .HasColumnName("DeptName");
+
+                    b.HasKey("DebtID");
 
                     b.ToTable("Departments");
                 });
@@ -54,14 +66,6 @@ namespace EntityFrameWorkCore6._0.Migrations
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("varchar(50)");
-
-                    b.Property<string>("PassWord")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PhoneNumber")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Salary")
                         .HasColumnType("decimal(18,2)");

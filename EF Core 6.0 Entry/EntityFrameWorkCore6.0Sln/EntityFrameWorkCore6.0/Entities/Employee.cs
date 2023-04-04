@@ -10,8 +10,10 @@ using System.Threading.Tasks;
 namespace EntityFrameWorkCore6._0.Entities
 {
     // EF Core supports 4 ways for mapping classes to (Table / View)
-    // 1. by convension
+    // 1. by convention
     // 2. Data Annotation (Set Of Attributes)
+    // 3. Fluent APIs ( Override OnModelCreating() in DbContext )     Common Use: (Composite PK, Default Value For a Column) or i don`t have the sorce code for the Class 
+    // 4. Config Class Per Entity - Organize 3rdWay
 
     /// <summary>
     /// POCO Class
@@ -61,11 +63,11 @@ namespace EntityFrameWorkCore6._0.Entities
         public string Email { get; set; }
 
         //[DataType(DataType.PhoneNumber)]
-        [Phone]
-        public string PhoneNumber { get; set; }
+        //[Phone]
+        //public string PhoneNumber { get; set; }
 
-        [DataType(DataType.Password)]
-        public string PassWord { get; set; }
+        //[DataType(DataType.Password)]
+        //public string PassWord { get; set; }
     }
     #endregion
 

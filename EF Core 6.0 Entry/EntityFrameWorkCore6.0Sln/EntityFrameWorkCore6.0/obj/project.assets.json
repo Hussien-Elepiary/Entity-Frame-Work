@@ -782,6 +782,16 @@
             "rid": "win"
           }
         }
+      },
+      "DepatmentClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DepatmentClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DepatmentClass.dll": {}
+        }
       }
     }
   },
@@ -2003,10 +2013,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DepatmentClass/1.0.0": {
+      "type": "project",
+      "path": "../DepatmentClass/DepatmentClass.csproj",
+      "msbuildProject": "../DepatmentClass/DepatmentClass.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DepatmentClass >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.15"
     ]
@@ -2041,7 +2057,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj": {
+              "projectPath": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
