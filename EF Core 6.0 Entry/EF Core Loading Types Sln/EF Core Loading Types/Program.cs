@@ -1,6 +1,7 @@
 ﻿using EF_Core_Loading_Types.Contexts;
 using EF_Core_Loading_Types.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.CompilerServices;
 
 namespace EF_Core_Loading_Types
 {
@@ -10,6 +11,7 @@ namespace EF_Core_Loading_Types
         {
             using MiniCompanyDbContext context = new MiniCompanyDbContext();
 
+            #region Loading 
             #region Explicit Loading
             //var employee = (from E in context.Employees
             //                where E.id == 3
@@ -76,6 +78,46 @@ namespace EF_Core_Loading_Types
 
             //foreach (var Emp in Deparment.Employees)
             //    Console.WriteLine($"EmployeeId: {Emp.id}|| EmployeeName:{Emp.name}");
+            #endregion
+            #endregion
+
+            #region ViewMapping
+
+            //var result = context.Employees.FromSqlRaw("Select * From EmployeeDeptView");
+
+            //foreach (var item in context.EmployeeDeptView)
+            //{
+            //    Console.WriteLine($"Employee {item.EmpName}");
+            //}
+
+            #endregion
+
+            #region Tracing And NoTracing
+            ///Tracing is thing that trace the state of data if it`s updated or deleted or a new data over all
+            ///to make sure that your data is sync with the data base 
+            ///ue can stop tracing the data with this command {.AsNoTracking()} like the Following 
+            //var employee = (from E in context.Employees
+            //                where E.id == 3
+            //                select E).AsNoTracking().FirstOrDefault();
+            ///Use .AsNoTracking() if you are going to just view the data only 
+            #endregion
+
+            #region MaxBy() MinBy()
+            /// MaxBy() MinBy() Agrregate Functions
+
+            //Employee[] employees = 
+            //{
+            //    new Employee() { id = 1, name = "Ahmed", DepartmentId = 1 ,Salary = 1000},
+            //    new Employee() { id = 2, name = "Saly", DepartmentId = 2 ,Salary = 5000},
+            //    new Employee() { id = 3, name = "Mariam", DepartmentId = 1 ,Salary = 10000},
+            //};
+
+
+            /// System.ArgumentException: 'At least one object must implement IComparable.'
+            //employees.Max();
+
+            //Console.WriteLine(employees.MaxBy(e => e.Salary).name); ;
+
             #endregion
         }
     }
