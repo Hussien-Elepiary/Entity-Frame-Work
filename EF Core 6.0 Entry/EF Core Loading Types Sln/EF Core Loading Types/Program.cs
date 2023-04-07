@@ -11,6 +11,7 @@ namespace EF_Core_Loading_Types
         static void Main(string[] args)
         {
             using MiniCompanyDbContext context = new MiniCompanyDbContext();
+            using NorthwindContext northwindContext = new NorthwindContext();
 
             #region Loading 
             #region Explicit Loading
@@ -121,9 +122,6 @@ namespace EF_Core_Loading_Types
             #endregion
 
             #region Local and Remote
-
-            using NorthwindContext northwindContext = new NorthwindContext();
-
             // this command gose to the database every time to check for the data
             //if (northwindContext.Products.Any(P => P.UnitsInStock == 0))
             //{
@@ -144,6 +142,24 @@ namespace EF_Core_Loading_Types
             // to set the data from remot to local use the following command 
             // context.tablename.Load() like the following
             //northwindContext.Products.Load();
+            #endregion
+
+            #region Runinng SQL Query
+
+            ///1. DQL Statment : FromSqlRaw() FromSqlInterpolated()
+
+            //var Categories = northwindContext.Categories.FromSqlRaw("select * from categories");
+
+            //int count = 2;
+            //Categories = northwindContext.Categories.FromSqlInterpolated($"select top({count}) * from categories");
+
+            //foreach (var category in Categories)
+            //Console.WriteLine(category);
+
+            /// 2. DML statment : ExecuteSqlRaw() ExecuteSqlInterpolated()
+
+            northwindContext.Database.ExecuteSqlRaw("update categories set categoryName = 'New' where categoryId = 2");
+
             #endregion
         }
     }
