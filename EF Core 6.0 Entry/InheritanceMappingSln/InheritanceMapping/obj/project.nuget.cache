@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGb8JqSs/XcQHZUJf19nFc7OYQcbG3Bsc0pqd/LrZQGLmSjvKGvKPe4RA1JRAgiwGECaSgYZn039KQDidChMCA==",
+  "dgSpecHash": "HUa27LLxhGItqjJHH7rmeEAYSuHFPHhtDLg1Efo0Py04L3/wKj/YM7ZI9/oO01+3sJBORpFtoTQprdwYIFmS+w==",
   "success": true,
-  "projectFilePath": "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
+  "projectFilePath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hussi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -10,3 +10,15 @@ F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\ne
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\refint\DepatmentClass.dll
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.pdb
 F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\ref\DepatmentClass.dll
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\bin\Debug\net6.0\DepatmentClass.deps.json
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\bin\Debug\net6.0\DepatmentClass.dll
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\bin\Debug\net6.0\DepatmentClass.pdb
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.csproj.AssemblyReference.cache
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.AssemblyInfoInputs.cache
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.AssemblyInfo.cs
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.csproj.CoreCompileInputs.cache
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.dll
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\refint\DepatmentClass.dll
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\DepatmentClass.pdb
+F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\obj\Debug\net6.0\ref\DepatmentClass.dll

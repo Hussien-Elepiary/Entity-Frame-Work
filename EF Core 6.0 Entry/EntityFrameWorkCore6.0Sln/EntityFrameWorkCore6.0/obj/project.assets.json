@@ -2034,11 +2034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
+      "projectUniqueName": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
       "projectName": "EntityFrameWorkCore6.0",
-      "projectPath": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
+      "projectPath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
       "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-      "outputPath": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\obj\\",
+      "outputPath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2058,8 +2058,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj": {
-              "projectPath": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj"
+            "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj": {
+              "projectPath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\DepatmentClass\\DepatmentClass.csproj"
             }
           }
         }

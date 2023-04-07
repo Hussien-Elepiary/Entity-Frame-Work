@@ -65,7 +65,7 @@ namespace EntityFrameWorkCore6._0.Contexts
         }
 
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Department> Departments { get; set; }
+        //public DbSet<Department> Departments { get; set; }
         public DbSet<Product> Products { get; set; }
 
     }

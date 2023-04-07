@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZL/RF+uT5DJQMo/AVs9S8Su4eCOtOZxGwdvPZ1WW81RVfv6QZulH0FelSe1owFhYC+alUJ07z1wZLfhHSh8aw==",
+  "dgSpecHash": "3YXSvnSN0vl+kcB/KxBjLxdUbnvMOSn7J/RzpWNNU4LJw4w/7Ypkigg9G18J79m2t4gZIConldzeam4dkzq7qQ==",
   "success": true,
-  "projectFilePath": "F:\\BackEnd\\EntityFrameWork\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
+  "projectFilePath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\EntityFrameWorkCore6.0Sln\\EntityFrameWorkCore6.0\\EntityFrameWorkCore6.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hussi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

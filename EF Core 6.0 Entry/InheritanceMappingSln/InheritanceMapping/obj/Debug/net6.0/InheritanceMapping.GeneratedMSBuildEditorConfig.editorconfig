@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InheritanceMapping
-build_property.ProjectDir = F:\BackEnd\EntityFrameWork\InheritanceMappingSln\InheritanceMapping\
+build_property.ProjectDir = F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\InheritanceMappingSln\InheritanceMapping\

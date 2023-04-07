@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj": {}
+    "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj": {}
   },
   "projects": {
-    "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj": {
+    "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
+        "projectUniqueName": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
         "projectName": "InheritanceMapping",
-        "projectPath": "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
+        "projectPath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\InheritanceMapping.csproj",
         "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-        "outputPath": "F:\\BackEnd\\EntityFrameWork\\InheritanceMappingSln\\InheritanceMapping\\obj\\",
+        "outputPath": "F:\\BackEnd\\EntityFrameWork\\Entity-Frame-Work\\EF Core 6.0 Entry\\InheritanceMappingSln\\InheritanceMapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

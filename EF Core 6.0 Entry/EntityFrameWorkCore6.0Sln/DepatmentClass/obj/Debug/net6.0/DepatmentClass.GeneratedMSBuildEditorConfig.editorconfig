@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DepatmentClass
-build_property.ProjectDir = F:\BackEnd\EntityFrameWork\EntityFrameWorkCore6.0Sln\DepatmentClass\
+build_property.ProjectDir = F:\BackEnd\EntityFrameWork\Entity-Frame-Work\EF Core 6.0 Entry\EntityFrameWorkCore6.0Sln\DepatmentClass\
