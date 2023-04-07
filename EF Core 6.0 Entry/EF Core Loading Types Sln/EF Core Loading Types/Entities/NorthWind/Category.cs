@@ -29,7 +29,5 @@ namespace EF_Core_Loading_Types.Entities.NorthWind
 
         [InverseProperty("Category")]
         public virtual ICollection<Product> Products { get; set; }
-
-       
     }
 }

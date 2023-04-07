@@ -29,6 +29,10 @@
       {
          "Name": "[dbo].[Products Above Average Price]",
          "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Sales by Year]",
+         "ObjectType": 1
       }
    ],
    "UiHint": "DESKTOP-G2BCMH5.Northwind",

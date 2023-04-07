@@ -10,10 +10,13 @@ namespace EF_Core_Loading_Types.Contexts
 {
     public partial class NorthwindContext : DbContext
     {
-        public NorthwindContext() { }
         public NorthwindContext(DbContextOptions<NorthwindContext> options)
             : base(options)
         {
+        }
+        public NorthwindContext()
+        {
+                
         }
 
         public virtual DbSet<Category> Categories { get; set; }
@@ -58,6 +61,7 @@ namespace EF_Core_Loading_Types.Contexts
                 entity.ToView("Products Above Average Price");
             });
 
+            OnModelCreatingGeneratedProcedures(modelBuilder);
             OnModelCreatingPartial(modelBuilder);
         }
 

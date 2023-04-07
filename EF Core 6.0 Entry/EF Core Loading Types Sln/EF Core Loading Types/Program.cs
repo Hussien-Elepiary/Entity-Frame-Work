@@ -158,7 +158,25 @@ namespace EF_Core_Loading_Types
 
             /// 2. DML statment : ExecuteSqlRaw() ExecuteSqlInterpolated()
 
-            northwindContext.Database.ExecuteSqlRaw("update categories set categoryName = 'New' where categoryId = 2");
+            //northwindContext.Database.ExecuteSqlRaw("update categories set categoryName = 'New' where categoryId = 2");
+            //northwindContext.Database.ExecuteSqlInterpolated($"update categories set categoryName = 'New' where categoryId = 2");
+
+            #endregion
+
+            #region Running stored Proc
+
+            //making this manully will consume a lot of time
+            //var products = northwindContext.Products.FromSqlRaw("Exec [Sales by Year] @Beginning_Date, @Ending_Date",);
+
+            // you can use the extention (EF Core Power Tools) and after that make reverse engneer for the stordProc then use it like the following 
+            //var Proc = new NorthwindContextProcedures(northwindContext);
+
+            //var shipment = Proc.SalesbyYearAsync(new DateTime(1998,1,1),new DateTime(1998,2,1));
+
+            //foreach (var s in shipment.Result)
+            //{
+            //    Console.WriteLine(s.OrderID);
+            //}
 
             #endregion
         }
