@@ -1,0 +1,59 @@
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Join And GroupJoin.exe
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Join And GroupJoin.deps.json
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Join And GroupJoin.runtimeconfig.json
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Join And GroupJoin.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Join And GroupJoin.pdb
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Humanizer.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.csproj.AssemblyReference.cache
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.AssemblyInfoInputs.cache
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.AssemblyInfo.cs
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.csproj.CoreCompileInputs.cache
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.csproj.CopyComplete
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\refint\Join And GroupJoin.dll
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.pdb
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\Join And GroupJoin.genruntimeconfig.cache
+F:\BackEnd\EntityFrameWork\Join And GroupJoinSln\Join And GroupJoin\obj\Debug\net6.0\ref\Join And GroupJoin.dll
