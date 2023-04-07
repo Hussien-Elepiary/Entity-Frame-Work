@@ -1,5 +1,6 @@
 ﻿using EF_Core_Loading_Types.Contexts;
 using EF_Core_Loading_Types.Entities;
+using EF_Core_Loading_Types.Entities.NorthWind;
 using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
 
@@ -117,7 +118,32 @@ namespace EF_Core_Loading_Types
             //employees.Max();
 
             //Console.WriteLine(employees.MaxBy(e => e.Salary).name); ;
+            #endregion
 
+            #region Local and Remote
+
+            using NorthwindContext northwindContext = new NorthwindContext();
+
+            // this command gose to the database every time to check for the data
+            //if (northwindContext.Products.Any(P => P.UnitsInStock == 0))
+            //{
+            //    Console.WriteLine("There is at least one product is out of stock");
+            //}
+            // this command gose to the local(chached data) if there is no data it gose to the remote(data base)
+            //if (northwindContext.Products.Local.Any(P => P.UnitsInStock == 0))
+            //    Console.WriteLine("There is at least one product is out of stock");
+            //else if (northwindContext.Products.Any(P => P.UnitsInStock == 0))
+            //    Console.WriteLine("There is at least one product is out of stock");
+            //else
+            //    Console.WriteLine("There is no product out of stock");
+
+            //there is only one method that works like the past example it gose to the loacl first then check in the remote if there is no data 
+            //var result = northwindContext.Products.Find(1);
+            //var result = northwindContext.Find<Product>(1);
+
+            // to set the data from remot to local use the following command 
+            // context.tablename.Load() like the following
+            //northwindContext.Products.Load();
             #endregion
         }
     }
